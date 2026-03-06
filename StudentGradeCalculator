@@ -1,0 +1,4 @@
+The Student Grade Calculator is a simple application developed in Kotlin that calculates students' final grades based on their assessment scores.
+The program reads student scores, performs grade calculations, and outputs the results in an organized format.
+
+This project was developed as part of coursework practice to demonstrate programming concepts such as file handling, data processing, and basic grade computation.
