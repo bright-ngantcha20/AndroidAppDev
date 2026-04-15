@@ -13,8 +13,8 @@ The system enables efficient communication between students and administrators b
 * To provide a simple platform for reporting campus-related issues
 * To utilize mobile device sensors such as:
 
-  * 📷 Camera (for capturing images)
-  * 🎤 Microphone (for voice input)
+  *  Camera (for capturing images)
+  *  Microphone (for voice input)
 * To allow administrators to monitor and resolve reported issues
 * To improve response time and communication within the campus
 
@@ -132,7 +132,7 @@ The app uses the following permissions:
 
 ---
 
-## ⚠️ Limitations
+## Limitations
 
 * Data is stored temporarily (not persistent)
 * No real backend (no Firebase/Database yet)
@@ -140,7 +140,7 @@ The app uses the following permissions:
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 * Integration with Firebase or SQLite for persistent storage
 * Push notifications for report updates
@@ -150,7 +150,7 @@ The app uses the following permissions:
 
 ---
 
-## 📚 Conclusion
+## Conclusion
 
 The Campus Report App demonstrates how mobile technologies and sensors can be used to improve communication and problem reporting within a campus environment. It provides a practical implementation of real-time data collection and role-based system design.
 
